@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Connexion à Spinmama : guide France, sécurité et aide on Spinmamabonus</title>
-    <link>http://localhost:1313/login/</link>
+    <link>https://spinmamabonus.fr/login/</link>
     <description>Recent content in Connexion à Spinmama : guide France, sécurité et aide on Spinmamabonus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/login/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spinmamabonus.fr/login/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
